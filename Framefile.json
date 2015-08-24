@@ -1,0 +1,49 @@
+{
+  "default": {
+    "title": {
+      "fonts": [
+        {
+          "font": "./fonts/Nickelodeon.ttf",
+          "supported": ["en-US"]
+        }
+      ], 
+      "color": "#545454"
+    },
+    "background": "./background.jpg",
+    "padding": 50
+  },
+
+
+  "data": [
+    {
+      "filter": "manage",
+      "keyword": {
+        "color": "#d21559"
+      }
+    },
+    {
+      "filter": "journal",
+      "keyword": {
+        "color": "#feb909"
+      }
+    },
+    {
+      "filter": "entry",
+      "keyword": {
+        "color": "#aa4dbc"
+      }
+    },
+    {
+      "filter": "settings",
+      "keyword": {
+        "color": "#31bb48"
+      }
+    },
+    {
+      "filter": "passcode",
+      "keyword": {
+        "color": "#31bb48"
+      }
+    }
+  ]
+}
