@@ -7,13 +7,11 @@
           "supported": ["en-US"]
         }
       ], 
-      "color": "#545454"
+      "color": "#FAFAFA"
     },
     "background": "./background.jpg",
     "padding": 50
   },
-
-
   "data": [
     {
       "filter": "manage",
